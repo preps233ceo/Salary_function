@@ -2,7 +2,7 @@
 Python salary function that retrieves employee data from a data frame and stores it as a zip file and an R code for unzipping.
 # Employee Salary Data Management
 
-This project consists of a Python script designed to handle employee salary data. It imports salary data from a CSV file, retrieves details for a specified employee, and exports those details to a zipped CSV file. This README provides an overview of the code, its functions, and instructions for usage.
+This project consists of a Python script designed to handle employee salary data. It imports salary data from a CSV file, retrieves details for a specified employee, and exports those details to a zipped CSV file. This README provides an overview of the code, its functions, and instructions for usage. An R script is included to unzip the zipped CSV file.
 
 ## Requirements
 
